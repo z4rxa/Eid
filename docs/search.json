@@ -1,0 +1,28 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2023-06-09T10:33:41+00:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Eid",
+      "author": [],
+      "contents": "\n\n          \n          \n          Eid\n          \n          \n          home\n          Information\n          about\n          The importance of Eid\n          ☰\n          \n          \n      \n        \n          \n            \n              \n            \n              Eid\n            \n            \n              \n                \n                    \n                      \n                         Twitter\n                      \n                    \n                  \n                                    \n                    \n                      \n                         GitHub\n                      \n                    \n                  \n                                    \n                    \n                      \n                         Contact Us\n                      \n                    \n                  \n                                  \n            \n          \n        \n        \n        \n          \n            \n            Introduction\n            My website is all about Eid and why it is so important to\n            the Muslim community.In my website you will discovery the\n            reasons behind celebrating Eid and what Muslims usually do\n            on this holy day. I hope you like it🤍\n            \n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              Eid\n            \n            \n              \n                \n                                    \n                    \n                       Twitter\n                    \n                  \n                                    \n                    \n                       GitHub\n                    \n                  \n                                    \n                    \n                       Contact Us\n                    \n                  \n                                  \n              \n            \n            \n              \n              Introduction\n              My website is all about Eid and why it is so important\n              to the Muslim community.In my website you will discovery\n              the reasons behind celebrating Eid and what Muslims\n              usually do on this holy day. I hope you like it🤍\n              \n            \n        \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2023-06-09T10:34:39+00:00"
+    },
+    {
+      "path": "Information.html",
+      "title": "All about Eid",
+      "description": "More about Eid\n",
+      "author": [],
+      "contents": "\nMy website is all about Eid and why it is so important to the Muslim community.In my website you will discovery the reasons behind celebrating Eid and what Muslims usually do on this holy day.\nI hope you like it🤍\n\n\n\n",
+      "last_modified": "2023-06-09T10:33:43+00:00"
+    }
+  ],
+  "collections": []
+}

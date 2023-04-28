@@ -1,0 +1,17 @@
+name: "Zara."
+title: "Eid"
+description:  | 
+output_dir: "docs"
+theme: "my_theme.css"
+navbar:
+  right:
+    - text: "home"     
+      href: index.html
+    - text: "Information"     
+      href: Information.html
+    - text: "about"     
+      href: about.html
+    - text: "The importance of Eid"     
+      href: about.html
+      
+output: distill::distill_article
