@@ -9,8 +9,9 @@ output: distill::distill_article
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+There are 2 different types of Eid that Muslims celebrate:Eid al'fitr and Eid al'adha.
+Eid al'fitr marks the end of Ramadan [the fasting period]
 
-
-
+Eid al'adha marks the end of the Hajj period
 
 
