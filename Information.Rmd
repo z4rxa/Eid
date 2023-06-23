@@ -1,5 +1,5 @@
 ---
-title: "All about Eid"
+title: "Eid celebrations"
 description: |
   More about Eid
 output: distill::distill_article
@@ -12,6 +12,8 @@ knitr::opts_chunk$set(echo = FALSE)
 There are 2 different types of Eid that Muslims celebrate:Eid al'fitr and Eid al'adha.
 Eid al'fitr marks the end of Ramadan [the fasting period]
 
-Eid al'adha marks the end of the Hajj period
+Eid al'adha marks the end of the Hajj period and also commemorates the time the Prophet Ibrahim was willing to sacrifice his son but instead ended up sacrificing a ram.
+this is why Muslims do something called "qurbani" which is where they sacrifice an animal the same way the prophet did.
+
 
 

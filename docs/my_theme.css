@@ -8,7 +8,7 @@
    you may set its value to: unset
    All rows must end with a semi-colon.                      */
 
-/* Optional: embed custom fonts here with `@import`          */
+/* Optional: embed custom fonts here with `@import url('https://fonts.googleapis.com/css2?family=Pangolin&display=swap');`          */
 /* This must remain at the top of this file.                 */
 
 
@@ -21,7 +21,7 @@ html {
   --aside-size:      12px;
   --fig-cap-size:    13px;
   /*-- Main font colors --*/
-  --title-color:     #000000;
+  --title-color:     #bfbccb;
   --header-color:    rgba(0, 0, 0, 0.8);
   --body-color:      rgba(0, 0, 0, 0.8);
   --aside-color:     rgba(0, 0, 0, 0.6);
@@ -59,11 +59,11 @@ d-appendix {
 /* These properties only apply to Distill sites and blogs  */
 
 .distill-site-header {
-  --title-size:       18px;
-  --text-color:       rgba(255, 255, 255, 0.8);
+  --title-size:       50px;
+  --text-color:       040052(255, 255, 255, 0.8);
   --text-size:        15px;
   --hover-color:      white;
-  --bkgd-color:       #0F2E3D;
+  --bkgd-color:       #d8d6ff;
 }
 
 .distill-site-footer {

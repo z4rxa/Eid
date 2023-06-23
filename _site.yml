@@ -5,13 +5,12 @@ output_dir: "docs"
 theme: "my_theme.css"
 navbar:
   right:
-    - text: "home"     
+    - text: "Eid"     
       href: index.html
     - text: "Information"     
       href: Information.html
-    - text: "about"     
-      href: about.html
     - text: "The importance of Eid"     
-      href: about.html
-      
+      href: the_importance_of_eid.html
+    - text: "about"     
+      href: about.html    
 output: distill::distill_article

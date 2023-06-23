@@ -14,5 +14,5 @@ site: distill::distill_website
 ---
  
 ## Introduction
-My website is all about Eid and why it is so important to the Muslim community.In my website you will discovery the reasons behind celebrating Eid and what Muslims usually do on this holy day.
+My website is all about Eid and why it is so important to the Muslim community.In my website you will discover the reasons behind celebrating Eid and what Muslims usually do on this holy day.
 I hope you like it🤍
